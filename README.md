@@ -1,5 +1,4 @@
-# DL2024_Team8_ProjectName
-deep learning team 8 project
+# DL2024_Team8_RAG-Based_Recommendation_System
 
 ## 創作目標:
 系統根據使用者的喜好及要求推薦相關菜品，並提供食材及步驟等相關知識
