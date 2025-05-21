@@ -21,4 +21,6 @@
 
 ## 資料集取自[小磨坊官網](<https://www.tomax.com.tw/>)
 
-[<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }}
+<a href="https://github.com/jack910822lol/DL2024_Team8_RAG_Based_Recommendation_System/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jack910822lol/DL2024_Team8_RAG_Based_Recommendation_System" />
+</a>
