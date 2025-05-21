@@ -21,7 +21,7 @@
 
 ## 資料集取自[小磨坊官網](<https://www.tomax.com.tw/>)
 
-## Contributor
+## Contributors
 <!-- 小圓形頭像並排排列 -->
 <a href="https://github.com/AlexTso03" target="_blank">
   <img src="https://github.com/AlexTso03.png" alt="AlexTso03" style="width:50px; height:50px; border-radius:50%; margin:4px;">
