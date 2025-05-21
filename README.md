@@ -20,3 +20,23 @@
 (`config.ini`需與所執行的程式在同一目錄)
 
 ## 資料集取自[小磨坊官網](<https://www.tomax.com.tw/>)
+
+<!-- 小圓形頭像並排排列 -->
+<a href="https://github.com/AlexTso03" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/111065775?v=4" alt="AlexTso03" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+</a>
+<a href="https://github.com/Hermit570" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/122404841?v=4" alt="Hermit570" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+</a>
+<a href="https://github.com/Jss130" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/149418440?v=4" alt="Jss130" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+</a>
+<a href="https://github.com/suutgio" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/130892956?v=4" alt="suutgio" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+</a>
+<a href="https://github.com/zxc93142819" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/150777621?v=4" alt="zxc93142819" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+</a>
+<a href="https://github.com/jack910822lol" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/150543795?v=4" alt="jack910822lol" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+</a>
