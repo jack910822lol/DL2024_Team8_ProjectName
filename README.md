@@ -20,7 +20,3 @@
 (`config.ini`需與所執行的程式在同一目錄)
 
 ## 資料集取自[小磨坊官網](<https://www.tomax.com.tw/>)
-
-<a href="https://github.com/jack910822lol/DL2024_Team8_RAG_Based_Recommendation_System/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jack910822lol/DL2024_Team8_RAG_Based_Recommendation_System" />
-</a>
