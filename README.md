@@ -21,23 +21,24 @@
 
 ## 資料集取自[小磨坊官網](<https://www.tomax.com.tw/>)
 
+## Contributor
 <!-- 小圓形頭像並排排列 -->
 <a href="https://github.com/AlexTso03" target="_blank">
-  <img src="https://github.com/AlexTso03.png" alt="AlexTso03" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+  <img src="https://github.com/AlexTso03.png" alt="AlexTso03" style="width:50px; height:50px; border-radius:50%; margin:4px;">
 </a>
 <a href="https://github.com/Hermit570" target="_blank">
-  <img src="https://github.com/Hermit570.png" alt="Hermit570" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+  <img src="https://github.com/Hermit570.png" alt="Hermit570" style="width:50px; height:50px; border-radius:50%; margin:4px;">
 </a>
 <a href="https://github.com/Jss130" target="_blank">
-  <img src="https://github.com/Jss130.png" alt="Jss130" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+  <img src="https://github.com/Jss130.png" alt="Jss130" style="width:50px; height:50px; border-radius:50%; margin:4px;">
 </a>
 <a href="https://github.com/suutgio" target="_blank">
-  <img src="https://github.com/suutgio.png" alt="suutgio" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+  <img src="https://github.com/suutgio.png" alt="suutgio" style="width:50px; height:50px; border-radius:50%; margin:4px;">
 </a>
 <a href="https://github.com/zxc93142819" target="_blank">
-  <img src="https://github.com/zxc93142819.png" alt="zxc93142819" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+  <img src="https://github.com/zxc93142819.png" alt="zxc93142819" style="width:50px; height:50px; border-radius:50%; margin:4px;">
 </a>
 <a href="https://github.com/jack910822lol" target="_blank">
-  <img src="https://github.com/jack910822lol.png" alt="jack910822lol" style="width:60px; height:60px; border-radius:50%; margin:5px;">
+  <img src="https://github.com/jack910822lol.png" alt="jack910822lol" style="width:50px; height:50px; border-radius:50%; margin:4px;">
 </a>
 
