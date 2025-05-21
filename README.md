@@ -19,3 +19,4 @@
 填入`config.ini`中的API金鑰及API endpoint後即可執行`faiss_rag_description.ipynb`或`faiss_rag_description.ipynb` 
 (`config.ini`需與所執行的程式在同一目錄)
 
+## 資料集取自[小磨坊官網](<https://www.tomax.com.tw/>)
