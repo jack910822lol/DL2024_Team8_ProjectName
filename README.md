@@ -20,3 +20,5 @@
 (`config.ini`需與所執行的程式在同一目錄)
 
 ## 資料集取自[小磨坊官網](<https://www.tomax.com.tw/>)
+
+[<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }}
